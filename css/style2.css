@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+
+body { margin:0; padding:0; width:100%; color:white; font:normal 12px/1.8em Arial, Helvetica, sans-serif;}
+html, .main { padding:0; margin:0; background:  top repeat-x;}
+.clr { clear:both; padding:0; margin:0; width:100%; font-size:0px; line-height:0px;}
+h1 { margin:0; padding:5px 0; width:400px; color:#1f7fbb; font:normal 46px/1.2em Arial, Helvetica, sans-serif; letter-spacing:-2px;}
+h1 span { color:#fff;}
+h2 { font:normal 24px Arial, Helvetica, sans-serif; padding:0; margin:5px 0; color:#595959;}
+p { margin:8px 0; padding:0 0 8px 0; font:normal 12px/1.8em Arial, Helvetica, sans-serif;}
+a { color:#2cadff; text-decoration:none;}
+a:hover { text-decoration:underline;}
+
+/* content */
+.content_resize { margin:0 auto; padding:0; width:945px;}
+.info {width:430px; float:right; margin-left:15px; color:#000; font-size:20px;}
+.recommend {background-color: #333;height: 30px;width: 120px;}
+.img {width:500px; float:left;margin-top:20px;}
+.write{
+	font-family: "微软雅黑";
+	font-size: 20px;
+	line-height: 30px;
+	color: #fff;
+	text-indent: 25px;
+	}
+.button{
+	font-family:"黑体";
+	font-size:16px;
+	color:#333;
+	background:#fff;
+	height:35px;
+	width:60px;
+}
+.words{color:#033; font-size:18px;}
+.top{color:#600; font-size:40px;}
